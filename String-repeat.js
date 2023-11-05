@@ -5,7 +5,7 @@ Examples (input -> output)
 5, "Hello" -> "HelloHelloHelloHelloHello"
 
 */
-// ======================= solution  =======================
+// ======================= solution  ======================
 function repeatStr(s, n) {
   return s.repeat(n);
 }
