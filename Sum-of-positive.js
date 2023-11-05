@@ -16,7 +16,7 @@ function sumOffPositivesNumbers(arr) {
 console.log(sumOffPositivesNumbers(numbers)); //20
 */
 
-// =======================  solution 2 =======================
+// =======================  solution 2 ======================
 
 // function sumOffPositivesNumbers(arr) {
 //   return arr.filter((num) => num > 0).reduce((acc, current) => acc + current);
